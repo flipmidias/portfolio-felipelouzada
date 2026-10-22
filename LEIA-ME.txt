@@ -1,0 +1,15 @@
+PORTFÓLIO DE FELIPE LOUZADA — VERSÃO COM VÍDEOS
+
+COMO ABRIR
+1. Extraia todos os arquivos deste ZIP.
+2. Abra o arquivo index.html em um navegador.
+3. Mantenha a pasta assets no mesmo local do index.html.
+
+NOVOS MATERIAIS INCLUÍDOS
+- Vídeo institucional Visite Itanhaém (YouTube) com reprodução sob demanda.
+- Canal MDB TV Paraná com link para episódios.
+- Quatro links de publicações do Instagram, com tentativa de exibição incorporada e link alternativo.
+- Links relevantes adicionados aos cases de Itanhaém e MDB TV Paraná.
+
+IMPORTANTE
+O site depende de internet para reproduzir YouTube e Instagram, e a exibição incorporada pode depender das permissões dessas plataformas. Caso o Instagram bloqueie a prévia, use o botão INSTAGRAM. O site não está hospedado: este pacote é para publicação em GitHub Pages, Hostinger ou outra hospedagem estática.
